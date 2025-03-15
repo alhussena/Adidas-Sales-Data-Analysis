@@ -2,6 +2,7 @@ Adidas Sales Analysis 📊
 This project analyzes Adidas sales data to uncover key trends, customer behavior, and performance insights. Using Power BI, the report provides interactive dashboards and visualizations to help stakeholders make data-driven decisions.
 
 Features
+
 ✅ Sales Performance: Revenue trends, top-selling products, and regional performance.
 ✅ Customer Insights: Purchase patterns and demographic analysis.
 ✅ Market Trends: Seasonal demand shifts and forecasting.
@@ -10,7 +11,9 @@ Features
 
 
 Project Objective
+
 Key Performance Indicators (KPIs):
+
 Total Sales Analysis:
 Assess Adidas' overall sales performance over time.
 
